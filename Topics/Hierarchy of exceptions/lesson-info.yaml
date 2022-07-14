@@ -1,0 +1,6 @@
+content:
+- Theory
+- Base class
+- Checked exceptions
+- UncheckedException
+- BadRequestException
